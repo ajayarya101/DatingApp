@@ -1,0 +1,8 @@
+<h1>{{title}}</h1>
+
+{{records | json}}
+
+
+<ul>
+    <li *ngFor="let record of records">{{record.date | date}}</li>
+</ul>

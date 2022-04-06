@@ -1,0 +1,11 @@
+D:\EXL\DatingApp\API\bin\Debug\net6.0\publish\API.exe
+D:\EXL\DatingApp\API\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\EXL\DatingApp\API\bin\Debug\net6.0\publish\appsettings.json
+D:\EXL\DatingApp\API\bin\Debug\net6.0\publish\API.dll
+D:\EXL\DatingApp\API\bin\Debug\net6.0\publish\API.deps.json
+D:\EXL\DatingApp\API\bin\Debug\net6.0\publish\API.runtimeconfig.json
+D:\EXL\DatingApp\API\bin\Debug\net6.0\publish\API.pdb
+D:\EXL\DatingApp\API\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+D:\EXL\DatingApp\API\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\EXL\DatingApp\API\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EXL\DatingApp\API\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
